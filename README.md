@@ -1,5 +1,5 @@
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left">chadhaathimni@gmail.com
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
