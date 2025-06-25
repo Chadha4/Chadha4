@@ -8,5 +8,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chadha4&show_icons=true&locale=en&layout=compact" alt="chadha4" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chadha4&" alt="chadha4" /></p>
 
